@@ -1,0 +1,92 @@
+body
+{
+    font-family: sans-serif;
+    background-image: url(kavi.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.signup-box
+{
+    width: 400px;
+    height: 620px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+}
+.login-box
+{
+    
+    width: 340px;
+    height: 270px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+}
+h1
+{
+    text-align: center;
+    padding-top: 15px;
+}
+h4{
+    text-align: center;
+}
+form
+{
+    width: 300px;
+    margin-left: 20px;
+}
+form label
+{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+}
+form input
+{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+
+ button
+{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+.signup-box a
+{
+    text-decoration: none;
+    color: white;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+.p1
+{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+}
+.p1 a{
+    color: #49c1a2;
+}
+.p2
+{
+    color:blue;
+}
+.login-box a
+{
+    text-decoration: none;
+    color: white;
+}

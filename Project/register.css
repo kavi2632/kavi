@@ -1,0 +1,77 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: sans-serif;
+    background-image: url(kavi.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.reg
+{
+    width: 400px;
+    height: 620px;
+    margin: auto;
+    border-radius: 3px;
+}
+form
+{
+    width: 300px;
+    margin-left: 20px;
+}
+form label
+{
+    display: flex;
+    margin-top: 20px;
+    font-size: 20px;
+    color: yellow;
+}
+form input
+{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+    color: yellow;
+}
+button
+{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+    color: white;
+}
+h1,h3
+{
+    color: yellow;
+}
+span
+{
+    color:greenyellow
+}
+h3
+{
+    text-decoration: underline;
+    margin-top: 10px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}

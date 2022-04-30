@@ -1,0 +1,91 @@
+*
+{
+    
+    margin: 0;
+    font-family: Sans-Serif, Times New Roman, Comic Sans MS, Consolas, ;
+}
+body
+{
+    background-image: url(images.jpg);
+}
+.top
+{
+  background-color: black;
+  color: white;
+  font-family:Sans-Serif ;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+.tournament
+{
+    border: dashed;
+    background-color: yellow;
+    margin-top: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.head
+{
+    color: white;
+    background-color: black;
+    margin-top: 10px;
+    padding: 10px;
+    
+    
+  
+}
+h1,h2,h3
+{
+    text-align: center;
+}
+img
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10px;
+}
+button
+{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.bgmi
+{
+    border: dashed;
+    margin-top: 25px;
+    padding-top: 10px;
+    background-color: orange;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.tournament h3
+{
+    text-decoration: underline;
+}
+.bgmi h3
+{
+    margin-bottom: 15px;
+}
+.end
+{
+    border: dashed;
+    background-color: blue;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.end a
+{
+    color: white;
+
+}
+a{
+    text-decoration: none;
+}
+.top a
+{
+    text-decoration: none;
+    color: white;
+}

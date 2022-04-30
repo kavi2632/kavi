@@ -1,0 +1,33 @@
+*
+{
+    margin-top: 0;
+    font-family: Sans-Serif, Times New Roman, Comic Sans MS, Consolas, ;
+}
+body
+{
+    background-image: url(img.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.top
+{
+ 
+  background-color: black;
+  color: white;
+  font-family:Sans-Serif ;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+p
+{
+    font-size: 28px;
+    color: white;
+    font-weight: bold;
+    
+}
+.top a
+{
+    text-decoration: none;
+    color: white;
+}

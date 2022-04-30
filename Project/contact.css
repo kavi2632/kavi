@@ -1,0 +1,41 @@
+*
+{
+    font-family: Sans-Serif, Times New Roman, Comic Sans MS, Consolas, ;
+    margin-top: 0;
+}
+
+body
+{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.top
+{
+ 
+  color: white;
+  font-family:Sans-Serif ;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+  
+}
+.contact 
+{
+    margin: auto;
+    font-size: 20px;
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    color: blue;
+    text-align: center;
+    margin-top: 150px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+.top a
+{
+    text-decoration: none;
+    color: white;
+}
